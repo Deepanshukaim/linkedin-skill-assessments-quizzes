@@ -630,3 +630,10 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 - [ ] Transparency
 - [ ] Corrections
 - [ ] Artistic Effects
+
+#### Q82. What type of chart would you use to show a correlation between the amount of chocolate a city consumes and the number of crimes committed?
+
+- [ ] Scartter
+- [ ] line
+- [ ] column
+- [x] bar
